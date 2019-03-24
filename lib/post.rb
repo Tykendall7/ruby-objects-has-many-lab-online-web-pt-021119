@@ -6,7 +6,7 @@ class Post
     @@all << title
   end
   def self.all
-    @@all.self
+    @@all
   end
   
 end
