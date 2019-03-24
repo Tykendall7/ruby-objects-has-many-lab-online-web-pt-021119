@@ -7,7 +7,7 @@ class Author
     @posts= []
   end
   
-    def posts
+    def self.posts_count
       @@post_count
     end
     
